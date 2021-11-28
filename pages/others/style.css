@@ -1,0 +1,19 @@
+.brave{
+	text-align: center;
+	background-color: lightcyan;
+}
+h1{
+	color: deeppink;
+}
+a{
+	color: deeppink;
+}
+p{
+	text-align: justify;
+	background-color: lightblue;
+}
+address{
+	text-align: center;
+	color: purple;
+	font-weight: bold;
+}

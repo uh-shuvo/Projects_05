@@ -1,0 +1,21 @@
+.dynamic{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color: yellow;
+
+}
+p{
+	color: white;
+}
+body{
+	background-color: gray;
+}
+a{
+	color: yellow;
+}
+address{
+	text-align: center;
+	color: yellow;
+}

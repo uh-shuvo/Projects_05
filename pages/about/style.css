@@ -1,0 +1,30 @@
+.test{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color: yellow;
+}
+body{
+	background-color: grey;
+
+}
+p{
+	background-color: whitesmoke;
+	color: navy;
+	text-align: justify;
+}
+a{
+	color: yellow;
+}
+img{
+	box-shadow: 2px 2px 2px yellow;
+}
+address{
+	text-align: center;
+	font-weight: bold;
+	color:yellow;
+}
+h2{
+	color: purple;
+}

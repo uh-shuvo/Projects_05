@@ -1,0 +1,22 @@
+.tea{
+	text-align: center;
+}
+h1{
+	color: deeppink;
+	text-align: center;
+}
+body{
+	background-color: lightcyan;
+}
+p{
+	background-color: gold;
+	color: black;
+}
+a{
+	color: red;
+}
+address{
+	text-align: center;
+	font-weight: bold;
+	color: deeppink;
+}
